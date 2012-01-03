@@ -1,0 +1,23 @@
+body 
+{
+	margin: 200px;
+	font-family: Georgia, "Times New Roman", serif;
+	color: red;
+	background-color: #d8da3d; 
+}
+
+h1
+{
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+}
+
+.formulario
+{
+	border: 1px solid #000;
+	padding: 10px;
+	margin: 10px;
+	background: #ccccff;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+}
